@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vyacheslav Belchuk
-- 👀 I’m interested in PHP, Symfony, MySQL, Redis, JavaScript, Twig, HTML, CSS, Docker, Doctrine, Bootstrap, C++. 
+- 👀 I’m interested in PHP, Symfony, Laravel, MySQL, Redis, JavaScript, Twig, HTML, CSS, Docker, Doctrine, Bootstrap, C++. 
 - 🌱 I’m currently learning JavaScript, Bootstrap, Laravel
-- 📫 How to reach me: vyacheslavbelchuk@gmail.com
+- 📫 How to reach me: vyacheslav.belchuk@gmail.com
