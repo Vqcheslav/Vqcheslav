@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vyacheslav Belchuk
-- 👀 I’m interested in PHP, Symfony, Laravel, MySQL, Redis, Docker, RabbitMQ, ElasticSearch, JavaScript, HTML, CSS, Bootstrap, Vue.js. 
-- 🌱 I’m currently learning RabbitMQ, ElasticSearch, Go.
+- 👀 I’m interested in PHP (Symfony, Laravel), MySQL, Redis, Docker, RabbitMQ, ELK, JavaScript, Vue.js. 
+- 🌱 I’m currently learning Vue.js.
 - 📫 How to reach me: vqcheslav.official@gmail.com .
